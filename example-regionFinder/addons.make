@@ -1,0 +1,7 @@
+ofxPotrace
+ofxLibTess2
+ofxEnTTKit
+ofxEnTTInspector
+ofxImGui
+ofxImGuiStyle
+ofxImGuiFileDialog
