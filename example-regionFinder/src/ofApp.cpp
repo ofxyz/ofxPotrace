@@ -2,9 +2,9 @@
 
 #include "imgui_internal.h"
 
-#include <ofxImGuiStyle/src/ImFonts.h>
-#include <ofxImGuiStyle/src/ImThemeRegistry.h>
-#include <ofxEnTTInspector/src/inspectors/trace_inspectors.h>
+#include "ImFonts.h"
+#include "ImThemeRegistry.h"
+#include "inspectors/trace_inspectors.h"
 #include <ofxPotraceCurveTrace.h>
 
 #include <algorithm>

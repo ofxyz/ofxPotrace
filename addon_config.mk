@@ -6,8 +6,7 @@ meta:
 	ADDON_URL = https://github.com/openframeworks/openFrameworks
 
 common:
-	ADDON_DEPENDENCIES = ofxEnTTKit ofxOpenCv ofxLibTess2
-	ADDON_INCLUDES += $(OF_ROOT)/addons
+	ADDON_DEPENDENCIES = ofxEnTTKit ofxEnTTInspector ofxOpenCv ofxLibTess2
 	ADDON_INCLUDES += libs/potrace
 	ADDON_CPPFLAGS += -DVERSION=\"1.16\"
 	ADDON_LDFLAGS += -lm

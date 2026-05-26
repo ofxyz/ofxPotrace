@@ -1,8 +1,8 @@
 #pragma once
 
 #include "ofxPotraceRegionFinder.h"
-#include <ofxEnTTInspector/src/ComponentInspector.h>
-#include <ofxEnTTInspector/src/inspectors/color_band_inspectors.h>
+#include "ComponentInspector.h"
+#include "inspectors/color_band_inspectors.h"
 
 namespace inspector {
 
